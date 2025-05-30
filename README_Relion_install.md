@@ -18,6 +18,8 @@ relion本身依赖于Linux系统，因此需要在windows下安装一个子系�
 
 由于relion可以进行图形化界面操作，因此需要再WSL上安装图形化界面。详细参考[link](https://blog.csdn.net/fysuccess/article/details/141646840?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7ECtr-2-141646840-blog-140029025.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7ECtr-2-141646840-blog-140029025.235%5Ev43%5Epc_blog_bottom_relevance_base7)
 
+**需要安装VcSvr，这一点非常重要** 查看上面的CSDN链接即可找到
+
 最重要的代码如下：
 
 ```
