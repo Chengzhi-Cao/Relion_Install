@@ -7,7 +7,6 @@
 This repository provides the implementation of [Relion 5.0](https://relion.readthedocs.io/en/release-5.0/Installation.html):
 
 
-这里详细记录了relion5.0部署在windows本地的详细过程
 
 ## windows 10/11 Install Linux subsystem
 
