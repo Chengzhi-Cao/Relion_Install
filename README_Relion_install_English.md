@@ -66,16 +66,16 @@ cmake ..
 make -j 4
 
 
-# 但是在安装完成后可能无法直接使用，提示：
+
 relion: command not found
 
-# 这是因为官方在github教程中没有加设置环境变量的步骤，过程如下：
+
 vim ~/.bashrc
 
-# 在底部添加一行语句：
+
 export PATH="/your/path/to/relion/build/bin:$PATH"
 
-# 使生效：
+
 source  ~/.bashrc
 
 
